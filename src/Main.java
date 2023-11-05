@@ -15,5 +15,6 @@ public class Main {
         }
 
         System.out.println("change to dev");
+        System.out.println("dev 1st commit");
     }
 }
